@@ -41,7 +41,7 @@ To get started with the Task Management System on your local machine, follow the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-management-system.git
+   [git clone https://github.com/khaaaleed-5/Task-Managment-System.git]
 2. install libraries used:
     you can find it in "Task-Managment-System/libs"
 Feel free to ask any questions about what we done 
